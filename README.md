@@ -5,7 +5,7 @@
  This [SIS-3D]() dataset includes 1086 pairs of left and right views with diverse content and their corresponding human eye fixation data.
 
 # Pretained Model
-The pretrained model can be downloaded from [s3dmodel]().
+The pretrained model can be downloaded from [s3dmodel](https://pan.baidu.com/s/1RdrNm3o_OAIlbz62V9dIiQ)(pw：4cm2).
 
 # configuration
 python 2.7 tensorflow 2.0.0-beta0
