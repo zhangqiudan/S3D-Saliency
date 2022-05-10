@@ -10,3 +10,4 @@ The pretrained model can be downloaded from [s3dmodel](https://pan.baidu.com/s/1
 # configuration
 python 2.7 tensorflow 2.0.0-beta0
 
+Our code is rewritten on the basis of the SALICONtf. Thanks a lot for the excellent code provided by the authors.
